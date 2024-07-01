@@ -1,1 +1,1 @@
-return {["palette"]="Simple Blue",}
+return {["palette"]="Base Game",}
